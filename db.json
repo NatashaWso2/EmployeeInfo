@@ -1,0 +1,84 @@
+{
+  "employees":[
+    {
+      "empid":"101",
+      "personal":{
+        "name":"Will Smith",
+        "address":{
+          "streetaddress":"724th Street",
+          "city":"New York",
+          "state":"NY",
+          "postalcode":"10038"
+        }
+      },
+      "profile":{
+        "designation":"Account Manager",
+        "department":"Sales"
+      }
+    },
+    {
+      "empid":"202",
+      "personal":{
+        "name":"Paige Turner",
+        "address":{
+          "streetaddress":"Cross Street",
+          "city":"Santa Clara",
+          "state":"CA",
+          "postalcode":"3400"
+        }
+      },
+      "profile":{
+        "designation":"Solutions Engineer",
+        "department":"Pre-Sales"
+      }
+    },
+    {
+      "empid":"303",
+      "personal":{
+        "name":"Walter Melon",
+        "address":{
+          "streetaddress":"Olcott Street",
+          "city":"Austin",
+          "state":"TX",
+          "postalcode":"1002"
+        }
+      },
+      "profile":{
+        "designation":"HR Manager",
+        "department":"HR"
+      }
+    },
+    {
+      "empid":"404",
+      "personal":{
+        "name":"Gregory Star",
+        "address":{
+          "streetaddress":"Wayford Street",
+          "city":"New York",
+          "state":"NY",
+          "postalcode":"2003"
+        }
+      },
+      "profile":{
+        "designation":"Vice President",
+        "department":"Sales"
+      }
+    },
+    {
+      "empid":"505",
+      "personal":{
+        "name":"Maggie Mango",
+        "address":{
+          "streetaddress":"Shropshire Lane",
+          "city":"Austin",
+          "state":"TX",
+          "postalcode":"1032"
+        }
+      },
+      "profile":{
+        "designation":"Legal Office",
+        "department":"Legal"
+      }
+    }
+  ]
+}
